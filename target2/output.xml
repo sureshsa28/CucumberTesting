@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="67.976" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login functionality check for orange hrm page" name="Checking the orange hrm login functionality with valid credentials" time="66.873">
+<system-out><![CDATA[
+Given User should be on login page of orange hrm............................passed
+When User give the username as "Admin" and password as "admin123"...........passed
+And User is clicking on the login button....................................passed
+Then User must be on dashboard page.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
